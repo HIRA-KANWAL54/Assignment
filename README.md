@@ -1,2 +1,2 @@
-# Assignment
+Tailwind css
 My assignment repository
